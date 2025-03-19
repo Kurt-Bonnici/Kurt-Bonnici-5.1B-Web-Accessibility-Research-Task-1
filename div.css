@@ -1,0 +1,19 @@
+div{
+    background-color: #8a2be2;
+    border: #000000 solid 10px
+
+}
+
+div{
+    margin: 20px;
+    padding: 10px;
+}
+
+div{
+    background-color: aqua;
+    border: 20px;
+    display: flex;
+    border: none
+}
+
+
